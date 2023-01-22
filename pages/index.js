@@ -22,7 +22,9 @@ export default function Home() {
               <h3 className={styles.labSubName}>Synthetic Biology for Metabolic Engineering</h3>
             </div>
             <div>
-              <span className={styles.labDescription} data-aos="fade-up" data-aos-duration="500" data-aos-delay="300" data-aos-offset="0">Rodrigo Ledesma-Amaro's Lab</span>
+              <span className={styles.labDescription} data-aos="fade-up" data-aos-duration="500" data-aos-delay="300" data-aos-offset="0">
+                {"Rodrigo Ledesma-Amaro's Lab"}
+              </span>
             </div>
           </div>
         </section>
