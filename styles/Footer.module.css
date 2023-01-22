@@ -1,0 +1,41 @@
+.footer {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    min-height: 45vh;
+    background: rgba(77, 149, 125, 0.72);
+}
+
+.footerWrapper {
+    padding: 3em 1.5em;
+    display: flex;
+    flex-flow: column;
+}
+
+.footerWrapper > span {
+    font-family: 'Jura', sans-serif;
+    font-size: 5em;
+    color: #fff;
+}
+
+.footerWrapper > p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.6em;
+    color:#fff;
+}
+
+.footer img {
+    margin-left: 0.5rem;
+}
+
+.footer a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mapContainer {
+    flex: 1;
+    position: relative;
+}

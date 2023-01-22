@@ -1,0 +1,32 @@
+import styles from '../styles/Publications.module.css';
+import {useEffect, useState} from "react";
+
+
+export default function Publications() {
+    const [publications, setPublications] = useState([]);
+    useEffect(() => {
+        (async () => {
+            const response = await fetch('/publications.json');
+            const publicationsJSON = await response.json();
+            const {response: {results}} = publicationsJSON;
+            setPublications(results);
+        })()
+    }, [])
+
+    return !!publications.length && <>
+        <section className={styles.section}>
+            <div className={styles.sectionTitle}>
+                <h3 data-aos="fade-up" data-aos-duration="500" data-aos-delay="300" data-aos-offset="0">Our <span className={styles.greenText}>publications.</span></h3>
+            </div>
+        <div className={styles.pubList} data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500" data-aos-offset="0">
+            {publications.map((pub,index) => (
+                <div className={styles.pubListItem} key={index}>
+                    <h3>{!!pub.doiUrl ? <a href={pub.doiUrl}>{pub.title}</a> : `${pub.title}`}</h3>
+                    <span><em>{pub.authors} - {pub.extraAuthors}</em></span>
+                    <span><b>{pub.journalText}</b> | {pub.publicationDate}</span>
+                </div>
+            ))}
+        </div>
+        </section>
+    </>
+}

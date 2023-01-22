@@ -1,0 +1,32 @@
+
+.menu {
+    list-style-type: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    font-size: 25px;
+    gap: 30px;
+    padding: 8px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    color: #4D957D;
+}
+
+.active {
+    color: #736A6A;
+    opacity: .7;
+    pointer-events: none;
+}
+
+.menu li:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .menu {
+        justify-content: flex-start;
+    }
+}

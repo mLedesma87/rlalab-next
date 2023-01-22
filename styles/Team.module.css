@@ -1,0 +1,36 @@
+.section {
+    min-height: calc(100vh - 2.4rem);
+    padding: 6rem 1.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    font-family: 'Roboto', sans-serif;
+    color: #736A6A;
+    overflow: hidden;
+}
+
+.sectionTitle {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    margin: 30px 0 15px 0;
+}
+
+.sectionTitle h3{
+    font-size: 3em;
+    font-weight: 400;
+}
+
+.greenText {
+    color: #4D957D
+}
+
+.teamWrapper {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 40px 10px;
+    gap: 5px;
+}
