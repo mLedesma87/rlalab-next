@@ -1,53 +1,89 @@
 [{
-  "imgUrl": "/tigran.png",
-  "name": "Tigran Yuzbashev (Postdoc)",
-  "description": "Hey, I’m Tigran from Moscow. I am happy to work in such genius environment as Ledesma-Amaro lab in Imperial. Microbial engineering is the flagship of Synthetic Biology and new continents should be discovered very soon. Let’s do it, Arrr!"
-}, {
-  "imgUrl": "/huadong.png",
-  "name": "Huadong Peng (Postdoc)",
-  "description": "I am Huadong, from Hubei, China. I am learning to build synthetic microbial communities now. Prior to Imperial, I had some experiences in yeast lipid pathway engineering, biomass refinery especially biomass pretreatment for bioethanol production. Outside lab, I enjoy cooking, swimming and watching martial arts movies and close to nature."
-}, {
-  "imgUrl": "/amritpal.png",
-  "name": "Amritpal Singh (PhD student)",
-  "description": "Hi! I'm Amritpal from London. I am a PhD student looking at hijacking bacterial metabolism and calling it engineering as well as trying to figure out how to get things from inside the cell to the outside, turns out its a harder than it sounds. I work in the organism that brought your Bacterial Cellulose, K. rhaeticus . When not in the lab (lol), I travel, I appreciate the natural world, I collect Antique weaponry and contemplate why, because why not?"
-}, {
-  "imgUrl": "/lucie.png",
-  "name": "Lucie Studena (PhD student)",
-  "description": "I am Lucie and in my PhD project, I use consortia of microorganisms to cheaply and efficiently produce medically relevant sesquiterpenoids. When not working, I enjoy anything outdoors (caving, mountain expeditions, kayaking), frisbee ultimate, acroyoga, improv, and way too many other activities."
-}, {
-  "imgUrl": "/alicia.png",
-  "name": "Alicia Graham (PhD student)",
-  "description": "Hello! My name is Alicia and Im a PhD student working on the production of nutritionally important bio active compound form the yeast Yarrowia lipolytica. In my free time I enjoy cooking and travelling."
-}, {
-  "imgUrl": "/alice.png",
-  "name": "Alice Boo (PhD student)",
-  "description": "Hi, I'm Alice from the other side of the channel. I'm a PhD student working on a joint project with Dr Guy-Bart Stan and Dr Rodrigo Ledesma Amaro to build robust synthetic Escherichia coli consortia. I also enjoy sailing."
-}, {
-  "imgUrl": "/wei.png",
-  "name": "Wei Jiang (PhD student)",
-  "description": "Hey, I am Wei. I focus on lipid metabolism in yeast. I try to build an efficient yeast cell factory platform to produce some unusual fatty acids with high values. In my spare time, I like cooking and enjoy delicious foods with friends."
-}, {
-  "imgUrl": "/nishta.png",
-  "name": "Nishta Parekh (MRes student)",
-  "description": "Hi, I’m Nishta and I’m a Bioengineering MRes student. I am currently engineering a yeast strain capable of fixing and recycling waste products through synthetic biology. Besides fiddling with genes, I am a competitive netball player and also play the classical Indian flute. Last but not yeast (pun intended), I’m a bit of an adrenaline junkie and enjoy trying out new experiences and activities."
-}, {
-  "imgUrl": "/eric.png",
-  "name": "Eric South (MRes student)",
-  "description": "Finding a balance between analyst and designer. Currently interested in creating synthetic communities for application in bioproduction. When not in lab I'm studying the bioeconomy, mining for hip music, or wandering somewhere outdoors."
-}, {
-  "imgUrl": "/alicia_2.png",
-  "name": "Alicia Climent (PhD Student)",
-  "description": "Hi! I’m Alicia Climent. In my PhD project, I’m trying to control gene expression using a synbio-based electronic toolbox. I am interested in investigating how far the boundaries between electronics and synthetic biology can be blurred by pushing the limits of biological science into new and exciting grounds. Outside the lab, I enjoy travelling, reading and having a great time with colleagues!"
-}, {
-  "imgUrl": "/davina.png",
-  "name": "Davina Patel (PhD student)",
-  "description": "Hi! I'm Davina and I come from London. For my PhD, I am focusing on heterogeneity in yeast so that I can eventually engineer a strain for use in therapeutic applications. In my spare time I enjoy doing anything that's creative and artistic."
-}, {
-  "imgUrl": "/eliza.png",
-  "name": "Eliza Atkison (MRes student)",
-  "description": "Hello! I’m Eliza and I’m a BioDesign Engineering CDT student. My project investigates the use of novel communication systems and division of metabolic load within microbial consortia for the development of next generation biotechnology. Outside the lab I spend my time baking cakes, watching horror movies and accidentally murdering my houseplants."
-}, {
-  "imgUrl": "/yutong.png",
-  "name": "Yutong Yin (MRes Student)",
-  "description": "Hi, I am Yutong and I am currently a Bioengineering MRes student. I am currently working on bacterial promoter engineering and the development of a multiplexed system to control yeast metabolism. Besides working in the lab, I also love watching musicals, eating and going to the gym."
+  "imgUrl":"/JavieraL.jpeg",
+  "name":"Javiera Lopez (Lab manager)",
+  "description":"Hi, I'm Javiera from Chile. I have worked for several years with yeasts using synthetic biology tools, and now I have the opportunity to work in the study of microbial communities with the potential to produce biotechnological products. When I'm out of the lab I really enjoy photography, especially when portraying my children"
+},{
+  "imgUrl":"/Piotr.jpeg",
+  "name":"Piotr Hapeta (Postdoc)",
+  "description":"Hi, I’m Piotr and I’m interested in applying wonders of synthetic biology to provide a bright future for life on Earth and beyond. I am especially interested in the waste valorization side of the bioprocesses, which means that in the near future we will be able to manufacture useful chemicals directly from municipal, agronomical and industrial wastes. In my work I use the yeast Yarrowia lipolytica capable of producing important stuff such as biofuels. In my free time I enjoy music, reading books, cars, hiking and wondering if we have company in the Universe."
+},{
+  "imgUrl":"/Giansimone.jpeg",
+  "name":"Giansimone Perrino (Postdoc)",
+  "description":"Hi, I'm Giansimone and I'm working on a project that uses math to unravel the mysteries behind division of labour in synthetic microbial consortia. Besides doing mathematical models, I enjoy reading, gaming and travelling."
+},{
+  "imgUrl":"/Kiyan.jpeg",
+  "name":"Kiyan Shabestary (Postdoc)",
+  "description":"Hi! I’m Kiyan from Switzerland. I joined the group as a postdoc in 2021. While my PhD was in Metabolic Engineering and Systems Biology of cyanobacteria, my research in Rodrigo’s group is about isogenic heterogeneity in yeast. I am particularly interested in the mechanisms behind heterogeneity formation and how it could help us shape more functional microbial communities. My daily work is a lovely mix of experimental and computational work. My long-term goal is to contribute to the making of a bio-circular economy using microbial cell factories. In my free time, I play floorball or football and I always enjoy hiking in the mountains"
+},{
+  "imgUrl":"/Young.png",
+  "name":"Young-Kyoung Park (Postdoc)",
+  "description":"Hi, I'm Young from South Korea. I've worked on metabolic engineering of bacteria and yeasts for the production of value-added molecules. In the RLA lab, I'm engineering the yeast Yarrowia lipolytica for terpenoid production by metabolic engineering and synthetic biology. In my free time, I like traveling, seeing nature, cooking, and baking!"
+},{
+  "imgUrl":"/Razieh.jpeg",
+  "name":"Razieh Rafieenia (Postdoc)",
+  "description":"Hi, I’m Razieh and I joined the group as a Marie Skłodowska-Curie Research Fellow to work on microbial lipids production from lignocellulosic biomass using synthetic microbial consortia. Prior to Imperial, I had experience on microbial electrochemical systems for the treatment of recalcitrant pollutants, anaerobic digestion for hydrogen and methane production from organic wastes, and metabolic flux balance analysis. In my free time, I enjoy traveling, eating, and cooking for friends. "
+},{
+  "imgUrl":"/Cinzia.png",
+  "name":"Cinzie Klemm (Postdoc)",
+  "description":"Hi, I’m Cinzia from Germany. I have a background in functional genomics and cell biology and focussed on yeast cell cycle regulation during my PhD. In the RLA lab, I am working on a project to better understand metabolic heterogeneity in clonal yeast populations based on their cell cycle state and I aim to manipulate the cell cycle for improved bioproduction. In my free time, I enjoy running, hiking and cycling."
+},{
+  "imgUrl":"/alicia.png",
+  "name":"Alicia Graham (PhD student)",
+  "description":"Working on taming the yeast (more like the beast, amirite) - in particular with regards to modulating it to use in food-related industries so we can all have a yeast feast! In my free time I enjoy cooking and fermenting things in my kitchen, just can't get away from the microcosm!"
+},{
+  "imgUrl":"/alicia_2.png",
+  "name":"Alicia Climent (PhD Student)",
+  "description":"Hi! I’m Alicia Climent. In my PhD project, I’m trying to control gene expression using a synbio-based electronic toolbox. I am interested in investigating how far the boundaries between electronics and synthetic biology can be blurred by pushing the limits of biological science into new and exciting grounds.  Outside the lab, I enjoy travelling, reading and having a great time with colleagues"
+},{
+  "imgUrl":"/davina.png",
+  "name":"Davina Patel (PhD student)",
+  "description":"Hi! I'm Davina and I come from London. For my PhD, I am focusing on heterogeneity in yeast so that I can eventually engineer a strain for use in therapeutic applications. In my spare time I enjoy doing anything that's creative and artistic."
+},{
+  "imgUrl":"/eliza.png",
+  "name":"Eliza Atkison (PhD student)",
+  "description":"Hello! I’m Eliza and I’m a BioDesign Engineering CDT student. My project investigates the use of novel communication systems and division of metabolic load within microbial consortia for the development of next generation biotechnology. Outside the lab I spend my time baking cakes, watching horror movies and accidentally murdering my houseplants."
+},{
+  "imgUrl":"/Lucas.jpeg",
+  "name":"Lucas Coppens (PhD student)",
+  "description":"Trying to make the a-team of microbes: heterotrophs, diazotrophs and autotrophs combining forces, growing happily together and making up for eachother's deficiencies. I am a strong believer in the potential of synthetic biology to improve sustainability on our planet. In my spare time I enjoy making music, working out and wandering into the unknown."
+},{
+  "imgUrl":"/Jamie.png",
+  "name":"Jamie Lee (PhD student)",
+  "description":"My PhD focuses on designing a novel microbial therapy for patients with eczema by controlling the skin microbiome. I am particularly interested in using a systems biology approach to understand how the stability of the microbiome can be maintained. In my spare time, I enjoy rock climbing, reading, and drawing."
+},{
+  "imgUrl":"/kyler4.jpeg",
+  "name":"Kyler Roy (PhD student)",
+  "description":"Hi, I’m Kyler from Canada! Yeasts make beer, which I think is pretty cool, but they could be even cooler if they made more things, like drugs, fragrances or biofuels. One of the biggest problems in metabolic engineering of microbes to produce high-value products is optimizing metabolic flux towards that compound of interest. My project focuses on enhancing multiplexed CRISPR systems to simultaneously upregulate or downregulate dozens of genes within a metabolic network to enhance bioproduction of many interesting compounds."
+},{
+  "imgUrl":"/Will.jpeg",
+  "name":"Will Newell (PhD student)",
+  "description":"I'm Will, visiting the lab for a while and hoping to stay for longer! I'm working on implementing novel forms of carbon assimilation in Yarrowia to drive down costs and increase the sustainability of the bioindustry. I'm interested in all things sustainability and I'm an ardent believer in the revolutionary, liberatory potential of biotechnology. I enjoy cooking, the outdoors (if anyone wants to go on a fishing trip and talk about climate change hit me up) and in happier times I enjoyed going to the gym."
+},{
+  "imgUrl":"/Mohamed.jpeg",
+  "name":"Mohamed Almarei (PhD student)",
+  "description":"Strictly aerobic organisms and oxygen formed an unbreakable bond that stretches back many generations and matured exclusively through evolution. For us to understand how this relationship came into place and reverse it requires identifying the missing parts in an aerobe’s metabolism, similar to solving a jigsaw puzzle! My name is Mohamed and that was a brief description of my project. In my free time I enjoy learning new things, doing sporty stuff and watching anything that makes me laugh at a screen."
+},{
+  "imgUrl":"/Juline.jpeg",
+  "name":"Juline Savigny (PhD student)",
+  "description":"Heterogeneity within yeast cultures is believed to weaken the robustness and efficiency of microbial cell factories. My project aims to understand where this heterogeneity comes from in the hope of manipulating it for our own gain. When not in the lab, I enjoy being outdoors, hiking and traveling."
+},{
+  "imgUrl":"/Diego.jpeg",
+  "name":"Diego Ruiz Sanchis (PhD student)",
+  "description":"Hi there, I’m Diego! In my MRes project, I’m trying to broaden the diet of yeast, so that they can grow on more sustainable substrates than sugar. I’m trying to engineer methane assimilation, which would allow them to convert this gas into valuable products. In my free time I enjoy reading, exploring nature, acting and I’ve recently started bouldering and singing in a choir (despite my lack of singing skills). "
+},{
+  "imgUrl":"/Harman.jpeg",
+  "name":"Harman Mehta (PhD student)",
+  "description":"Hi! I am Harman from India. My PhD project is focused on controlling synthetic bacterial communities for bio production. Outside the lab, I enjoy reading, travelling and dancing."
+},{
+  "imgUrl":"/Mengyao.jpeg",
+  "name":"Mengyao Lu (PhD student)",
+  "description":"Hi, I'm Mengyao from China. I am trying to explore the production of some nutrients by engineered Yarrowia lipolytica, like carbohydrates, proteins and lipids. I am currently building a synthetic pathway for human milk oligosaccharides. Next may be the most valuable protein in human milk. Yes! We may be creating unrivaled baby formula! In my free time, I like to travel, chat with friends, and play the piano (some of my favorite songs)."
+},{
+  "imgUrl":"/Tingan.jpeg",
+  "name":"Tingan Zhou (MRes student)",
+  "description":"Hi! I'm Tingan from China. I am a MRes Bioengineering student trying to do metabolic engineering work in Yarrowia lipolytica. In my project, I focus on realizing the de novo biosynthesis of value-added natural products, including some beta-carotene derivatives with potential medial applications, and then transform the yeasts to be cell factories by various synthetic biology strategies. In my pare time, I am pretty interested in travelling with friends and enjoying music. "
+},{
+  "imgUrl":"/Peiti.jpeg",
+  "name":"Peiti Sun (MRes student)",
+  "description":"Hi, I’m Peiti coming from Taiwan. In metabolic engineering, yeasts and bacteria are working to produce valuable compounds just like tiny biofactories. I’m extremely into biosynthesis of natural products with microorganisms, especially for colorants and fragrances. My project focuses on carotenoids production in Y. lipolytica, enabling  novel approaches to achieve green industries. For leisure, I love travelling, cooking, singing, playing guitar and making music!"
 }]
