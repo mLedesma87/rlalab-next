@@ -28,9 +28,33 @@
     color: #4D957D
 }
 
+.director {
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 15px;
+    padding: 15px;
+}
+
+.director h3{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.imageWrapper {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    gap: 10px;
+}
+
 .teamWrapper {
     display: flex;
     flex-flow: row wrap;
     padding: 40px 10px;
     gap: 5px;
+}
+
+.text {
+    font-size: 1.3em;
+    line-height: 33px;
 }
