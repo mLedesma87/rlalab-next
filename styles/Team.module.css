@@ -29,6 +29,8 @@
 }
 
 .director {
+    margin-left: 7em;
+    margin-right: 7em;
     display: flex;
     flex-flow: row nowrap;
     gap: 15px;
@@ -48,6 +50,8 @@
 }
 
 .teamWrapper {
+    margin-left: 5em;
+    margin-right: 4em;
     display: flex;
     flex-flow: row wrap;
     padding: 40px 10px;

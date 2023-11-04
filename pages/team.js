@@ -16,11 +16,11 @@ export default function Team() {
                 <h3 data-aos="fade-up" data-aos-duration="500" data-aos-delay="300" data-aos-offset="0">Who <span className={styles.greenText}>we are.</span></h3>
             </div>
             <div className={styles.director} data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500" data-aos-offset="0">
-              <div className={styles.imageWrapper}>
-                <img src="/rodrigo.png" style={{borderRadius:'60px', width:'120px', maxHeight: '120px', flex: '1'}} />
-                <h2>Rodrigo Ledesma-Amaro (the PI)</h2>
+              <div className={styles.imageWrapper} style={{marginTop: '2em'}}>
+                <img src="/rodrigo.png" style={{borderRadius:'150px', width:'250px', maxHeight: '250px', flex: '1', objectFit: 'cover'}} />
+                <h2>Rodrigo Ledesma-Amaro (PI)</h2>
               </div>
-              <div className={styles.text} style={{flex: 1}}>
+              <div className={styles.text} style={{flex: 1, marginLeft:"2em", marginRight:"2em"}}>
                 <h3>Overview</h3>
                 <p>Rodrigo Ledesma-Amaro is a lecturer at the Department of Bioengineering at Imperial College London and is part of the Imperial College Centre for Synthetic Biology (IC-SynB). He is leading a research group at the interface of synthetic biology and metabolic engineering. </p>
                 <p>Rodrigo has published more than 55 articles and patents, has obtained 11 fellowships/scholarships and 8 awards. He has been invited speaker in more than 20 conferences and workshops, including keynote talks. He is involved in editorial activities including works in editorial boards and acts as reviewer for journals and grants, including Nature, H2020 or BBSRC.</p>
@@ -34,11 +34,11 @@ export default function Team() {
             <div className={styles.teamWrapper} data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500" data-aos-offset="0">
                 {
                     !!members.length && members.map(({imgUrl, name, description}, index) => (
-                        <div key={index} style={{display:'flex', flexFlow:'column wrap', height:'auto', width: '450px', alignItems:'flex-start', justifyContent: 'flex-start'}}>
-                            <img src={imgUrl} style={{borderRadius:'60px', width:'120px', maxHeight: '120px', flex: '1'}} />
-                            <div className={styles.text} style={{display:'flex', flexFlow:'column wrap'}}>
+                        <div key={index} style={{marginTop: "6em", marginLeft: "3em", marginRight: "3em", display:'flex', flexFlow:'column wrap', height:'auto', width: '430px', alignItems:'flex-start', justifyContent: 'flex-start'}}>
+                            <img src={imgUrl} style={{marginLeft:'30px', borderRadius:'90px', width:'180px', maxHeight: '180px', flex: '1', objectFit: 'cover', textAlign: 'center'}} />
+                            <div className={styles.text} style={{display:'flex', flexFlow:'column wrap', marginTop:"1.5em"}}>
                                 <h3>{name}</h3>
-                                <span>{description}</span>
+                                <span style={{marginTop:"0.5em"}}>{description}</span>
                             </div>
                         </div>
                     ))

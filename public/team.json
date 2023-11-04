@@ -7,29 +7,17 @@
   "name":"Piotr Hapeta (Postdoc)",
   "description":"Hi, I’m Piotr and I’m interested in applying wonders of synthetic biology to provide a bright future for life on Earth and beyond. I am especially interested in the waste valorization side of the bioprocesses, which means that in the near future we will be able to manufacture useful chemicals directly from municipal, agronomical and industrial wastes. In my work I use the yeast Yarrowia lipolytica capable of producing important stuff such as biofuels. In my free time I enjoy music, reading books, cars, hiking and wondering if we have company in the Universe."
 },{
-  "imgUrl":"/Giansimone.jpeg",
-  "name":"Giansimone Perrino (Postdoc)",
-  "description":"Hi, I'm Giansimone and I'm working on a project that uses math to unravel the mysteries behind division of labour in synthetic microbial consortia. Besides doing mathematical models, I enjoy reading, gaming and travelling."
-},{
   "imgUrl":"/Kiyan.jpeg",
   "name":"Kiyan Shabestary (Postdoc)",
   "description":"Hi! I’m Kiyan from Switzerland. I joined the group as a postdoc in 2021. While my PhD was in Metabolic Engineering and Systems Biology of cyanobacteria, my research in Rodrigo’s group is about isogenic heterogeneity in yeast. I am particularly interested in the mechanisms behind heterogeneity formation and how it could help us shape more functional microbial communities. My daily work is a lovely mix of experimental and computational work. My long-term goal is to contribute to the making of a bio-circular economy using microbial cell factories. In my free time, I play floorball or football and I always enjoy hiking in the mountains"
-},{
-  "imgUrl":"/Young.png",
-  "name":"Young-Kyoung Park (Postdoc)",
-  "description":"Hi, I'm Young from South Korea. I've worked on metabolic engineering of bacteria and yeasts for the production of value-added molecules. In the RLA lab, I'm engineering the yeast Yarrowia lipolytica for terpenoid production by metabolic engineering and synthetic biology. In my free time, I like traveling, seeing nature, cooking, and baking!"
 },{
   "imgUrl":"/Razieh.jpeg",
   "name":"Razieh Rafieenia (Postdoc)",
   "description":"Hi, I’m Razieh and I joined the group as a Marie Skłodowska-Curie Research Fellow to work on microbial lipids production from lignocellulosic biomass using synthetic microbial consortia. Prior to Imperial, I had experience on microbial electrochemical systems for the treatment of recalcitrant pollutants, anaerobic digestion for hydrogen and methane production from organic wastes, and metabolic flux balance analysis. In my free time, I enjoy traveling, eating, and cooking for friends. "
 },{
-  "imgUrl":"/Cinzia.png",
-  "name":"Cinzie Klemm (Postdoc)",
+  "imgUrl":"/Cinzia.jpeg",
+  "name":"Cinzia Klemm (Postdoc)",
   "description":"Hi, I’m Cinzia from Germany. I have a background in functional genomics and cell biology and focussed on yeast cell cycle regulation during my PhD. In the RLA lab, I am working on a project to better understand metabolic heterogeneity in clonal yeast populations based on their cell cycle state and I aim to manipulate the cell cycle for improved bioproduction. In my free time, I enjoy running, hiking and cycling."
-},{
-  "imgUrl":"/alicia.png",
-  "name":"Alicia Graham (PhD student)",
-  "description":"Working on taming the yeast (more like the beast, amirite) - in particular with regards to modulating it to use in food-related industries so we can all have a yeast feast! In my free time I enjoy cooking and fermenting things in my kitchen, just can't get away from the microcosm!"
 },{
   "imgUrl":"/alicia_2.png",
   "name":"Alicia Climent (PhD Student)",
@@ -78,10 +66,6 @@
   "imgUrl":"/Mengyao.jpeg",
   "name":"Mengyao Lu (PhD student)",
   "description":"Hi, I'm Mengyao from China. I am trying to explore the production of some nutrients by engineered Yarrowia lipolytica, like carbohydrates, proteins and lipids. I am currently building a synthetic pathway for human milk oligosaccharides. Next may be the most valuable protein in human milk. Yes! We may be creating unrivaled baby formula! In my free time, I like to travel, chat with friends, and play the piano (some of my favorite songs)."
-},{
-  "imgUrl":"/Tingan.jpeg",
-  "name":"Tingan Zhou (MRes student)",
-  "description":"Hi! I'm Tingan from China. I am a MRes Bioengineering student trying to do metabolic engineering work in Yarrowia lipolytica. In my project, I focus on realizing the de novo biosynthesis of value-added natural products, including some beta-carotene derivatives with potential medial applications, and then transform the yeasts to be cell factories by various synthetic biology strategies. In my pare time, I am pretty interested in travelling with friends and enjoying music. "
 },{
   "imgUrl":"/Peiti.jpeg",
   "name":"Peiti Sun (MRes student)",
