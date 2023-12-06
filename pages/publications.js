@@ -6,7 +6,7 @@ export default function Publications() {
     const [publications, setPublications] = useState([]);
     useEffect(() => {
         (async () => {
-            const response = await fetch('/publications.json');
+            const response = await fetch('/publications_1.json');
             const publicationsJSON = await response.json();
             const {response: {results}} = publicationsJSON;
             setPublications(results);
@@ -20,9 +20,9 @@ export default function Publications() {
         <div className={styles.pubList} data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500" data-aos-offset="0">
             {!!publications.length && publications.map((pub,index) => (
                 <div className={styles.pubListItem} key={index}>
-                    <h3>{!!pub.doiUrl ? <a href={pub.doiUrl}>{pub.title}</a> : `${pub.title}`}</h3>
-                    <span><em>{pub.authors} - {pub.extraAuthors}</em></span>
-                    <span><b>{pub.journalText}</b> | {pub.publicationDate}</span>
+                    <h3>{!!pub.url ? <a href={pub.url}>{pub.title}</a> : `${pub.title}`}</h3>
+                    <span><em>{pub.authors}</em></span>
+                    <span><b>{pub.citation}</b></span>
                 </div>
             ))}
         </div>
